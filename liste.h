@@ -34,3 +34,6 @@ int supprimer(lst l, int i);
 void afficherListe(lst l);
 
 #endif
+
+
+/**gcc -Wall -Wextra -Wconversion -g -O0 -o programme main.c liste.c */
